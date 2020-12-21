@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println("One commit one friendship");
+        
         System.out.println("Comparison betwee the frameworks0");
     }
 }
